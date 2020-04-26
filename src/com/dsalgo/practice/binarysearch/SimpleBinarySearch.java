@@ -32,7 +32,7 @@ public class SimpleBinarySearch {
         if(nums[mid] == target){
             return mid;
         }
-        else if(nums[mid] > target){
+        else if(target < nums[mid]){
             return search(nums, left, mid-1, target);
         }
         else{

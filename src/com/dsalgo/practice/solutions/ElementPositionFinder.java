@@ -1,4 +1,4 @@
-package com.dsalgo.practice.binarysearch;
+package com.dsalgo.practice.solutions;
 
 
 import java.util.Arrays;

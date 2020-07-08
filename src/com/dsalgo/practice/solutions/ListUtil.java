@@ -1,4 +1,4 @@
-package com.dsalgo.practice.binarysearch;
+package com.dsalgo.practice.solutions;
 
 public class ListUtil {
     public static ListNode convertToList(int[] listVal1) {

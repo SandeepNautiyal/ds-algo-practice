@@ -1,4 +1,4 @@
-package com.dsalgo.practice.binarysearch;
+package com.dsalgo.practice.solutions;
 
 public class NegativeNumsInASortedMatrixWithOptimzations {
 
